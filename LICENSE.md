@@ -1,6 +1,4 @@
---------------------------------------------------
-IPA Font License Agreement v1.0
---------------------------------------------------
+# IPA Font License Agreement v1.0
 
 IPA Font License Agreement v1.0 (English)
 
