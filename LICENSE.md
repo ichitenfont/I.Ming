@@ -1,10 +1,10 @@
 # IPA Font License Agreement v1.0
 
-##IPA Font License Agreement v1.0 (English)
+## IPA Font License Agreement v1.0 (English)
 
 The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”).  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient's acceptance of this Agreement. 
 
-###Article 1 (Definitions)
+### Article 1 (Definitions)
 
 1. “Digital Font Program” shall mean a computer program containing, or used to render or display fonts.
 
@@ -22,7 +22,7 @@ The Licensor provides the Licensed Program (as defined in Article 1 below) under
 
 8. “Recipient” shall mean anyone who receives the Licensed Program under this Agreement, including one that receives the Licensed Program from a Recipient.
 
-###Article 2 (Grant of License)
+### Article 2 (Grant of License)
 
 The Licensor grants to the Recipient a license to use the Licensed Program in any and all countries in accordance with each of the provisions set forth in this Agreement. However, any and all rights underlying in the Licensed Program shall be held by the Licensor. In no sense is this Agreement intended to transfer any right relating to the Licensed Program held by the Licensor except as specifically set forth herein or any right relating to any trademark, trade name, or service mark to the Recipient.
 
@@ -40,7 +40,7 @@ The Licensor grants to the Recipient a license to use the Licensed Program in an
 
 7. The Recipient may create, use, reproduce and/or Redistribute a Derived Program under the terms stated above for the Licensed Program: provided, that the Recipient shall follow the provisions set forth in Article 3 Paragraph 1 when Redistributing the Derived Program. 
 
-###Article 3 (Restriction)
+### Article 3 (Restriction)
 
 The license granted in the preceding Article shall be subject to the following restrictions:
 
@@ -72,13 +72,13 @@ The license granted in the preceding Article shall be subject to the following r
 
 4. The Licensor is under no obligation to respond to any technical questions or inquiries, or provide any other user support in connection with the installation, use or the Reproduction and Other Exploitation of the Licensed Program or Derived Programs thereof.
 
-###Article 4 (Termination of Agreement)
+### Article 4 (Termination of Agreement)
 
 1. The term of this Agreement shall begin from the time of receipt of the Licensed Program by the Recipient and shall continue as long as the Recipient retains any such Licensed Program in any way.
 
 2. Notwithstanding the provision set forth in the preceding Paragraph, in the event of the breach of any of the provisions set forth in this Agreement by the Recipient, this Agreement shall automatically terminate without any notice. In the case of such termination, the Recipient may not use or conduct Reproduction and Other Exploitation of the Licensed Program or a Derived Program: provided that such termination shall not affect any rights of any other Recipient receiving the Licensed Program or the Derived Program from such Recipient who breached this Agreement.
 
-###Article 5 (Governing Law)
+### Article 5 (Governing Law)
 
 1. IPA may publish revised and/or new versions of this License.  In such an event, the Recipient may select either this Agreement or any subsequent version of the Agreement in using, conducting the Reproduction and Other Exploitation of, or Redistributing the Licensed Program or a Derived Program. Other matters not specified above shall be subject to the Copyright Law of Japan and other related laws and regulations of Japan.
 
@@ -87,11 +87,11 @@ The license granted in the preceding Article shall be subject to the following r
 
 ----------
 
-##IPAフォントライセンスv1.0（日本語）
+## IPAフォントライセンスv1.0（日本語）
 
 許諾者は、この使用許諾（以下「本契約」といいます。）に定める条件の下で、許諾プログラム（1条に定義するところによります。）を提供します。受領者（1条に定義するところによります。）が、許諾プログラムを使用し、複製し、または頒布する行為、その他、本契約に定める権利の利用を行った場合、受領者は本契約に同意したものと見なします。
 
-###第1条　用語の定義
+### 第1条　用語の定義
 
 本契約において、次の各号に掲げる用語は、当該各号に定めるところによります。
 
@@ -111,7 +111,7 @@ The license granted in the preceding Article shall be subject to the following r
 
 8. 「受領者」とは、許諾プログラムを本契約の下で受領した人をいい、受領者から許諾プログラムを受領した人を含みます。
 
-###第2条 使用許諾の付与
+### 第2条 使用許諾の付与
 
 許諾者は受領者に対し、本契約の条項に従い、すべての国で、許諾プログラムを使用することを許諾します。ただし、許諾プログラムに存在する一切の権利はすべて許諾者が保有しています。本契約は、本契約で明示的に定められている場合を除き、いかなる意味においても、許諾者が保有する許諾プログラムに関する一切の権利および、いかなる商標、商号、もしくはサービス・マークに関する権利をも受領者に移転するものではありません。
 
@@ -129,7 +129,7 @@ The license granted in the preceding Article shall be subject to the following r
 
 7. 受領者は、上記の許諾プログラムについて定められた条件と同様の条件に従って、派生プログラムを作成し、使用し、複製し、再配布することができます。ただし、受領者が派生プログラムを再配布する場合には、3条1項の定めに従うものとします。
 
-###第3条　制限
+### 第3条　制限
 
 前条により付与された使用許諾は、以下の制限に服します。
 
@@ -161,13 +161,13 @@ The license granted in the preceding Article shall be subject to the following r
 
 4. 許諾プログラムまたは派生プログラムのインストール、使用、複製その他の利用に関して、許諾者は技術的な質問や問い合わせ等に対する対応その他、いかなるユーザ・サポートをも行う義務を負いません。
 
-###第4条　契約の終了
+### 第4条　契約の終了
 
 1. 本契約の有効期間は、受領者が許諾プログラムを受領した時に開始し、受領者が許諾プログラムを何らかの方法で保持する限り続くものとします。
 
 2. 前項の定めにかかわらず、受領者が本契約に定める各条項に違反したときは、本契約は、何らの催告を要することなく、自動的に終了し、当該受領者はそれ以後、許諾プログラムおよび派生プログラムを一切使用しまたは複製その他の利用をすることができないものとします。ただし、かかる契約の終了は、当該違反した受領者から許諾プログラムまたは派生プログラムの配布を受けた受領者の権利に影響を及ぼすものではありません。
 
-###第5条　準拠法
+### 第5条　準拠法
 
 1. IPAは、本契約の変更バージョンまたは新しいバージョンを公表することができます。その場合には、受領者は、許諾プログラムまたは派生プログラムの使用、複製その他の利用または再配布にあたり、本契約または変更後の契約のいずれかを選択することができます。その他、上記に記載されていない条項に関しては日本の著作権法および関連法規に従うものとします。
 
