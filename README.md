@@ -39,7 +39,7 @@
 * 聯合製作：[陳輝恒](https://github.com/hfhchan)
 * 製作協助：鍾啟堯、陳志泓、[佟藍歌](https://github.com/aikahiiragi)、[Extc](https://github.com/extc)
 * 其他協助：李任之、許瀚文、譚樊馬克、葉俊麟、Sanggo、Gary Yau、堂木千代、蓋艾倫、伍梓豪、陳柏逸
-* 過往貢獻者：林隆男、TypeBank、Halasjack、[趙瑾昀](https://github.com/kunki)
+* 過往貢獻者：林隆男、TypeBank、[Halasjack](https://github.com/hlsj)、[趙瑾昀](https://github.com/kunki)
 
 ## 歷史
 
