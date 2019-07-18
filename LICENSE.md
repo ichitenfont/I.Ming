@@ -93,8 +93,8 @@ The license granted in the preceding Article shall be subject to the following r
 
 1. If a Derived Program is Redistributed pursuant to Paragraph 4 and 7 of the preceding Article, the following conditions must be met :
    * (1) The following must be also Redistributed together with the Derived Program, or be made available online or by means of mailing mechanisms in exchange for a cost which does not exceed the total costs of postage, storage medium and handling fees:
-    * (a) a copy of the Derived Program; and
-    * (b) any additional file created by the font developing program in the course of creating the Derived Program that can be used for further modification of the Derived Program, if any. 
+     * (a) a copy of the Derived Program; and
+     * (b) any additional file created by the font developing program in the course of creating the Derived Program that can be used for further modification of the Derived Program, if any. 
    * (2) It is required to also Redistribute means to enable recipients of the Derived Program to replace the Derived Program with the Licensed Program first released under this License (the “Original Program”).  Such means may be to provide a difference file from the Original Program, or instructions setting out a method to replace the Derived Program with the Original Program. 
    * (3) The Recipient must license the Derived Program under the terms and conditions of this Agreement.
    * (4) No one may use or include the name of the Licensed Program as a program name, font name or file name of the Derived Program. 
