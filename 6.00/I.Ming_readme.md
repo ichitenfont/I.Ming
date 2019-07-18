@@ -1,4 +1,8 @@
-﻿## 說明
+# I.Ming ( I.明體 / 一點明體 / 一点明朝 / 一点明体 ) 
+
+此乃舊版本，最新版本請見[主頁](https://github.com/ichitenfont/I.Ming)。
+
+## 說明
 
 「I.明體（I.Ming）」乃係一套依照傳承字形標準化文件《傳承字形部件檢校表》的推薦字形標準，並以TrueType格式封裝、依照Unicode編碼的OpenType字型。
 
