@@ -33,7 +33,7 @@
 * [「I.明體異體」（I.MingVar）](I.MingVar-7.00.ttf)：部份漢字改爲收錄一些也常見，但字理上未必比上者佔優的傳承字形。
 * [「I.明體異體CP」（I.MingVarCP）](I.MingVarCP-7.00.ttf)：與「I.明體異體」一樣，唯全形標點置中。
 
-此外，在[「I.明體」7.00版本的文件夾](https://github.com/ichitenfont/I.Ming/tree/master/7.00)內，尚有「I.明體」計劃的說明檔、版權條款文件檔、字型歷次變更的詳細紀錄檔。
+此外，在[「I.明體」7.00版的文件夾](https://github.com/ichitenfont/I.Ming/tree/master/7.00)內，尚有「I.明體」計劃的說明檔、版權條款文件檔、字型歷次變更的詳細紀錄檔。
 
 ## 主要貢獻者
 
