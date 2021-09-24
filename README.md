@@ -38,7 +38,7 @@
 ## 主要貢獻者
 
 * 主製作：[內木一郎](https://github.com/SyaoranHinata)、[李爾樅](https://github.com/Zonz-Ly)
-* 聯合製作：[陳輝恒](https://github.com/hfhchan)、李擎宇、伍梓豪、何子夏
+* 聯合製作：[陳輝恒](https://github.com/hfhchan)、李擎宇、伍梓豪、鯤逰白圭
 * 製作協助：鍾啟堯、陳志泓、[佟藍歌](https://github.com/aikahiiragi)、[Extc](https://github.com/extc)、[落霞孤鶩](https://github.com/lxgw)
 * 其他協助：李任之、許瀚文、譚樊馬克、葉俊麟、Sanggo、Gary Yau、堂木千代、蓋艾倫、伍梓豪、陳柏逸、夜煞之樂
 * 過往貢獻者：林隆男、TypeBank、[Halasjack](https://github.com/hlsj)、[趙瑾昀](https://github.com/kunki)
