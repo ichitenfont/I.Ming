@@ -1,5 +1,7 @@
 # IPA Font License Agreement v1.0 <Japanese/English>
 
+[For English, please click here.](#ipa-font-license-agreement-v10)
+
 ## IPAフォントライセンスv1.0
 
 許諾者は、この使用許諾（以下「本契約」といいます。）に定める条件の下で、許諾プログラム（1条に定義するところによります。）を提供します。受領者（1条に定義するところによります。）が、許諾プログラムを使用し、複製し、または頒布する行為、その他、本契約に定める権利の利用を行った場合、受領者は本契約に同意したものと見なします。
