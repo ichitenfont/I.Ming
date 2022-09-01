@@ -8,9 +8,9 @@
 
 「I.明體」這字型名稱裏的「I」是羅馬數字「一」，「I.」唸作「一點（[粵]Jat1 dim2、[中古]Qjit temx、[客]Jit7 diam3、[北]Yī diǎn、[日]いちてん、[英]One-dot）」，象徵筆畫的基本：點與線。
 
-使用「I.明體」時，請遵從[「IPA開放字型授權條款 第1.0版（IPA Open Font License v1.0，IPAフォントライセンスv1.0）」](LICENSE.md)之規定。
+使用「I.明體」時，請遵從「[IPA開放字型授權協議 1.0版](LICENSE_CHI.md)（[IPA Open Font License v1.0](LICENSE.md#ipa-font-license-agreement-v10)，[IPAフォントライセンスv1.0](LICENSE.md)）」之規定。
 
-但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合「IPA開放字型授權條款 第1.0版」規定的行爲，使用、下載或行使合約規定權利之接受方，亦視爲同意遵守「IPA開放字型授權條款 第1.0版」的一切規定。
+但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合「IPA開放字型授權協議 1.0版」規定的行爲，使用、下載或行使合約規定權利之接受方，亦視爲同意遵守「IPA開放字型授權協議 1.0版」的一切規定。
 
 「IPA字型（IPA Font，IPAフォント）」爲日本「獨立行政法人情報処理推進機構」（簡稱「IPA」）的註冊商標。
 
@@ -47,7 +47,7 @@
 
 「I.明體」經過許多人的努力才誕生。其前身是「IPA字型」。
 
-2009年，日本[「IPA」](http://www.ipa.go.jp/)以符合「開放原始碼促進會（Open Source Initiative）」開源定義的「IPA開放字型授權條款」，發佈兩款「IPA字型」，分別爲[「IPA明體（IPA明朝）」及「IPA黑體（IPAゴシック）」](http://ipafont.ipa.go.jp/old/ipafont/download.html)。字型衍生自林隆男（Takao Hayashi）所設計的兩款字形：[TypeBank公司](https://www.typebank.co.jp/)的「TB明體」和「TB黑體」。字型包含了日本常用的字元，以供日本人使用。
+2009年，日本[「IPA」](http://www.ipa.go.jp/)以符合「開放原始碼促進會（Open Source Initiative）」開源定義的「IPA開放字型授權協議」，發佈兩款「IPA字型」，分別爲[「IPA明體（IPA明朝）」及「IPA黑體（IPAゴシック）」](http://ipafont.ipa.go.jp/old/ipafont/download.html)。字型衍生自林隆男（Takao Hayashi）所設計的兩款字形：[TypeBank公司](https://www.typebank.co.jp/)的「TB明體」和「TB黑體」。字型包含了日本常用的字元，以供日本人使用。
 
 後來，經過多年的持續修補及修訂，「IPA明體」擴充成[「IPAex明體」](http://ipafont.ipa.go.jp/)、[「IPAmj明體」](http://mojikiban.ipa.go.jp/)。在「IPAmj明體」裏，正體漢字部份已補完得頗齊全，只是仍有少數常用字缺字。預設顯示的寫法仍以日文爲主，字型同時收錄了許多異體寫法，惟須採用特定程式方能顯示。其2013年11月的版本，收錄了CJK基本漢字18072個，擴展A漢字5765個，擴展B漢字25320個，擴展C漢字380個，擴展D漢字108個，未映射的異體等漢字9065個。
 
