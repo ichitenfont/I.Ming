@@ -5,7 +5,7 @@
 * [For English, please click here.](/LICENSE.md/#ipa-font-license-agreement-v10)
 * [日本語バージョンは、こちらをご覧ください。](/LICENSE.md)
 
-## IPA字型授權協議v1.0
+## IPA字型授權協議 v1.0
 
 「授權方」（“Licensor”）根據本授權協議（「協議」，“Agreement”）提供「授權程式」（如以下第1章所定義）。任何「接收者」使用、複製、或分發本「授權程式」，或行使任何在本「協議」下的權利（如以下第1章所定義），代表「接收者」同意本「授權」。
 
