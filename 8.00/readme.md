@@ -28,10 +28,12 @@
 
 目前「I.明體」已發展至8.00版，發佈日期爲2022年9月6日，共有以下字型檔案：
 
-* [「I.明體」（I.Ming）](I.Ming-8.00.ttf)：收錄力求遵從字理的傳承字形。
-* [「I.明體CP」（I.MingCP）](I.MingCP-8.00.ttf)：與「I.明體」一樣，唯全形標點置中。
-* [「I.明體異體」（I.MingVar）](I.MingVar-8.00.ttf)：部份漢字改爲收錄一些也常見，但字理上未必比上者佔優的傳承字形。
-* [「I.明體異體CP」（I.MingVarCP）](I.MingVarCP-8.00.ttf)：與「I.明體異體」一樣，唯全形標點置中。
+* [「一點明體」（I.Ming）](I.Ming-8.00.ttf)：收錄力求遵從字理的傳承字形。
+* [「一點明體CP」（I.MingCP）](I.MingCP-8.00.ttf)：與「一點明體」一樣，唯全形標點置中。
+* [「一點明體異體」（I.MingVar）](I.MingVar-8.00.ttf)：部份漢字改爲收錄一些也常見，但字理上未必比上者佔優的傳承字形。
+* [「一點明體異體CP」（I.MingVarCP）](I.MingVarCP-8.00.ttf)：與「一點明體異體」一樣，唯全形標點置中。
+* [「新一細明體」（PMingI.U）](PMingI.U-8.00.ttf)：與「一點明體CP」一樣，唯字高修改至跟Windows系統細明體相同。
+* [「新一細明體異體」（PMingI.UVar）](PMingI.UVar-8.00.ttf)：與「一點明體異體CP」一樣，唯字高修改至跟Windows系統細明體相同。
 
 此外，在[「I.明體」8.00版的文件夾](https://github.com/ichitenfont/I.Ming/tree/master/8.00)內，尚有「I.明體」計劃的說明檔、字型功能的說明檔、版權授權條款檔、字型歷次變更的詳細紀錄檔。
 
