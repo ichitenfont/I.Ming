@@ -2,8 +2,8 @@
 
 譯者按：譯文僅供參考，如有錯誤或出入，請參見原日文或英文版。此外，本譯文並沒有法律效力，請參見以下聲明。本中文譯文原譯爲夜煞之樂。本譯文只供參考使用。如有任何差異，請參閱日文或英語原文條款。
 
-* [For English, please click here.](/LICENSE.md/#ipa-font-license-agreement-v10)
-* [日本語バージョンは、こちらをご覧ください。](/LICENSE.md)
+* [For English, please click here.](/IPA_Font_License_Agreement_v1.0.md/#ipa-font-license-agreement-v10)
+* [日本語バージョンは、こちらをご覧ください。](/IPA_Font_License_Agreement_v1.0.md)
 
 ## IPA字型授權協議 1.0版
 
